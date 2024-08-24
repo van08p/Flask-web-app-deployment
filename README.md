@@ -28,7 +28,7 @@ This project demonstrates how to deploy a simple Flask/FastAPI application to Az
 ## 4. Configure GitHub Actions for CI/CD
 
 - In your repository click "Actions" and select "set up a workflow yourself"
-- Create a configuration file as 'main.yml'
+- Create a configuration file as `main.yml`
 - Set up Azure Publish Profile
   1. In azure portal, go to your Web App and click "Download publish profile"
   2. Navigate to your GitHub repository
